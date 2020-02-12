@@ -2,7 +2,7 @@
 
 Integrate the screens below as best as you can.
 
-- Request the data from the route : https://raw.githubusercontent.com/popina/test-web/master/data.json
+- Request the data from the route : https://raw.githubusercontent.com/popina/test-javascript/master/data.json
 - Parse the response
 - Add a loader and error handling in case the network is slow or api is down.
 - You can use Axios, Http ... or any other framwork you might find useful and helpful.
